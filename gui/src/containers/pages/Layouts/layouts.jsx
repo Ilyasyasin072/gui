@@ -63,7 +63,7 @@ export default function Apps() {
   const [value, setValue] = React.useState(0);
 
   const history = useHistory();
-  const landing = () => history.push("/landing");
+  const landing = () => history.push("/gui");
   const about = () => history.push("/about");
   const portofolio = () => history.push("/portofolio");
   // const dashboard = () => history.push("/dashboard");
@@ -153,7 +153,7 @@ export default function Apps() {
           <div className={classes.grow} />
           <div className={classes.sectionDesktop}>
             <div className={classes.setButton}>
-              <Link to="/" className="inherit" style={{}}>
+              <Link to="gui" className="inherit" style={{}}>
                 <Button style={{ color: "white" }}>Landing</Button>
               </Link>
             </div>
