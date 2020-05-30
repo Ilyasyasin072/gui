@@ -1,0 +1,212 @@
+.img-landing-pages {
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 400px;
+    justify-content: center;
+    margin-top: 6rem;
+}
+
+.name-titile {
+    text-align: left;
+    justify-content: left;
+    margin-top: 15rem;
+    font-family: Arial Bold;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+}
+
+#job-title {
+    text-align: left;
+    justify-content: left;
+    font-family: Arial Bold;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 33px;
+    opacity: 60%;
+}
+
+#btn-landing {
+    margin-top: 2rem;
+    background-color: #0a97b0;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    margin-left: 30%;
+    width: 35%;
+    cursor: pointer;
+}
+
+#btn-landing:hover {
+    background-color: black;
+    // transition: 100ms;
+    color: white;
+}
+
+.home {
+    height: 91.6vh;
+    background-color: #3f51b5;
+    position: relative;
+}
+
+h6 {
+    font-size: 50px;
+    margin-left: 30%;
+    display: inline-block;
+    margin-block-end: 0rem;
+}
+
+.content-img {
+    margin-top: 60px;
+    width: 100%;
+    height: 500px;
+}
+
+.content {
+    color: #fff;
+}
+
+.content h6 {
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    color: white;
+    text-align: left;
+    justify-content: left;
+    margin-top: 50px;
+    font-family: Arial Bold;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+}
+
+.content h1 {
+    text-align: left;
+    justify-content: left;
+    font-family: Arial Bold;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    color: white;
+}
+
+.content h2 {
+    margin-top: 1px;
+    font-size: 30px;
+    margin-left: 30%;
+    display: inline-block;
+    margin-block-end: 0rem;
+    color: white;
+    font-family: Arial Bold;
+    opacity: 50%;
+    letter-spacing: .5px;
+    text-align: left;
+    justify-content: left;
+    font-family: Arial Bold;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+}
+
+.content-text {
+    margin-top: 80px;
+}
+
+.home::before {
+    position: relative;
+    z-index: 990;
+    height: 210px;
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: url('../../../assets/img//wave/wave1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+// mobile
+.content-mobile {
+    color: #fff;
+}
+
+.home-mobile {
+    width: 100%;
+    height: 82vh;
+    background-color: #3f51b5;
+    position: relative;
+}
+
+.content-img-mobile {
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.content-mobile h1 {
+    margin-left: 50px;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    color: white;
+}
+
+.content-mobile h3 {
+    font-size: 20px;
+    margin-right: 50px;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    color: white;
+}
+
+.img-mobile {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+#btn-landing-mobile {
+    margin-right: 10px;
+    background-color: #0a97b0;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border: none;
+    color: white;
+    width: 200px;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+}
+
+.home-mobile::before {
+    position: relative;
+    z-index: 990;
+    height: 100px;
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: url('../../../assets/img//wave/wave1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

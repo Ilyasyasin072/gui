@@ -1,0 +1,29 @@
+.paper {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    padding: 14px 16px;
+    border: black;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+.avatar {
+    margin: 10px;
+    background-color: white;
+    display: flex;
+}
+
+.signIn {
+    font-size: 20px;
+    color: black;
+    opacity: 50%;
+}
+
+.formLogin {
+    width: 100%;
+    margin-top: 1px;
+}
