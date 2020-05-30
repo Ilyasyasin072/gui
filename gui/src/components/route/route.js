@@ -16,8 +16,8 @@ class MainRouter extends Component {
             <div style={{ overflow: "hidden" }}>
                 <Switch>
                     <Route path="/gui" component={Landing} />
-                    <Route path="/portofolio" component={Portofolio} />
-                    <Route path="/about" component={About} />
+                    <Route path="/gui/portofolio" component={Portofolio} />
+                    <Route path="/gui/about" component={About} />
                     <Route path="/home" component={Home} />
                     {/* ini route */}
                     {/* <Route path="/register" component={Register} /> */}

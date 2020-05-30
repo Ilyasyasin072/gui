@@ -63,9 +63,9 @@ export default function Apps() {
   const [value, setValue] = React.useState(0);
 
   const history = useHistory();
-  const landing = () => history.push("/gui");
-  const about = () => history.push("/about");
-  const portofolio = () => history.push("/portofolio");
+  const landing = () => history.push("/");
+  const about = () => history.push("/gui/about");
+  const portofolio = () => history.push("/gui/portofolio");
   // const dashboard = () => history.push("/dashboard");
 
   const handleProfileMenuOpen = (event) => {
