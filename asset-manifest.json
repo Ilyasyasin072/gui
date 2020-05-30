@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/gui/static/css/main.57bfeeae.chunk.css",
+    "main.js": "/gui/static/js/main.dab2bd4a.chunk.js",
+    "main.js.map": "/gui/static/js/main.dab2bd4a.chunk.js.map",
+    "runtime-main.js": "/gui/static/js/runtime-main.48a57d61.js",
+    "runtime-main.js.map": "/gui/static/js/runtime-main.48a57d61.js.map",
+    "static/css/2.fb20f2ef.chunk.css": "/gui/static/css/2.fb20f2ef.chunk.css",
+    "static/js/2.358e2d5f.chunk.js": "/gui/static/js/2.358e2d5f.chunk.js",
+    "static/js/2.358e2d5f.chunk.js.map": "/gui/static/js/2.358e2d5f.chunk.js.map",
+    "index.html": "/gui/index.html",
+    "precache-manifest.fc1a717abf525325e29148fc72d0f6c1.js": "/gui/precache-manifest.fc1a717abf525325e29148fc72d0f6c1.js",
+    "service-worker.js": "/gui/service-worker.js",
+    "static/css/2.fb20f2ef.chunk.css.map": "/gui/static/css/2.fb20f2ef.chunk.css.map",
+    "static/css/main.57bfeeae.chunk.css.map": "/gui/static/css/main.57bfeeae.chunk.css.map",
+    "static/js/2.358e2d5f.chunk.js.LICENSE.txt": "/gui/static/js/2.358e2d5f.chunk.js.LICENSE.txt",
+    "static/media/Enginner.svg": "/gui/static/media/Enginner.aaa7a96f.svg",
+    "static/media/codeigniter.PNG": "/gui/static/media/codeigniter.3f3a391f.PNG",
+    "static/media/design1.PNG": "/gui/static/media/design1.1703a549.PNG",
+    "static/media/design2.PNG": "/gui/static/media/design2.23d1533d.PNG",
+    "static/media/design3.jpg": "/gui/static/media/design3.8dab3242.jpg",
+    "static/media/design3.png": "/gui/static/media/design3.c37920c3.png",
+    "static/media/logo-crud-django.png": "/gui/static/media/logo-crud-django.c0999fc6.png",
+    "static/media/logo-rest-framework.png": "/gui/static/media/logo-rest-framework.c5f7f2ec.png",
+    "static/media/mobil-page.svg": "/gui/static/media/mobil-page.5ec3ea15.svg",
+    "static/media/personal-mobile.svg": "/gui/static/media/personal-mobile.67427d70.svg",
+    "static/media/personal.svg": "/gui/static/media/personal.2d566e2e.svg",
+    "static/media/php.png": "/gui/static/media/php.914acbb3.png",
+    "static/media/profile-me.svg": "/gui/static/media/profile-me.c33d83b4.svg",
+    "static/media/sqlserver.png": "/gui/static/media/sqlserver.f3ae60a5.png",
+    "static/media/Landing.scss": "/gui/static/media/wave1.22f68281.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48a57d61.js",
+    "static/css/2.fb20f2ef.chunk.css",
+    "static/js/2.358e2d5f.chunk.js",
+    "static/css/main.57bfeeae.chunk.css",
+    "static/js/main.dab2bd4a.chunk.js"
+  ]
+}
