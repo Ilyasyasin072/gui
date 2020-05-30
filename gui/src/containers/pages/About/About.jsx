@@ -59,7 +59,7 @@ const About = () => {
                 </h2>
               </div>
 
-              <Link to="portofolio">
+              <Link to="gui/portofolio">
                 <Button id="btn-landing"> Get Started</Button>
               </Link>
             </Grid>
