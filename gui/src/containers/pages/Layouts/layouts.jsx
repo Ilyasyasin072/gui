@@ -152,23 +152,23 @@ export default function Apps() {
           </Typography>
           <div className={classes.grow} />
           <div className={classes.sectionDesktop}>
-            {/* <div className={classes.setButton}>
+            <div className={classes.setButton}>
               <Link exact to="gui" className="inherit" style={{}}>
                 <Button style={{ color: "white" }}>Landing</Button>
               </Link>
-            </div> */}
+            </div>
             {/* <div className={classes.setButton}>
               <Link to="/" style={{}}>
                 <Button style={{ color: "white" }}>Dashboard</Button>
               </Link>
             </div> */}
             <div className={classes.setButton}>
-              <Link to="gui/portofolio" className="inherit" style={{}}>
+              <Link to="portofolio" className="inherit" style={{}}>
                 <Button style={{ color: "white" }}>Portofolio</Button>
               </Link>
             </div>
             <div className={classes.setButton}>
-              <Link to="gui/about" className="inherit" style={{}}>
+              <Link to="about" className="inherit" style={{}}>
                 <Button style={{ color: "white" }}>About</Button>
               </Link>
             </div>
