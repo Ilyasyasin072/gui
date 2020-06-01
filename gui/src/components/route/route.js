@@ -15,7 +15,7 @@ class MainRouter extends Component {
         return (
             <div style={{ overflow: "hidden" }}>
                 <Switch>
-                    <Route path="/gui" component={Landing} />
+                    <Route path="/" component={Landing} />
                     <Route path="/portofolio" component={Portofolio} />
                     <Route path="/about" component={About} />
                     <Route path="/home" component={Home} />

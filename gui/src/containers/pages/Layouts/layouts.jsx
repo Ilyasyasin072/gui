@@ -153,7 +153,7 @@ export default function Apps() {
           <div className={classes.grow} />
           <div className={classes.sectionDesktop}>
             <div className={classes.setButton}>
-              <Link exact to="gui" className="inherit" style={{}}>
+              <Link exact to="/" className="inherit" style={{}}>
                 <Button style={{ color: "white" }}>Landing</Button>
               </Link>
             </div>
