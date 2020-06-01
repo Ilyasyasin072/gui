@@ -6,7 +6,7 @@ import Apps from "../Layouts/layouts";
 class App extends Component {
   render() {
     return (
-      <Router basename="/">
+      <Router>
         <Apps />
         <MainRouter />
       </Router>
