@@ -13,7 +13,7 @@ import Landing from '../../containers/pages/Landing/Landing'
 class MainRouter extends Component {
     render() {
         return (
-            <div style={{ overflow: "hidden" }}>
+            <div>
                 <Switch>
                     <Route exact path="/" component={Landing} />
                     <Route path="/portofolio" component={Portofolio} />
